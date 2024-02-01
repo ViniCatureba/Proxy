@@ -1,7 +1,7 @@
 # Proxy
 Whether you're looking to improve performance through caching, access geo-restricted content, bypass network restrictions, or maintain anonymity while browsing, Proxy has you covered.
 
-I started creatin an VM on Azure that would be my ubunto server. These were the settings
+I started creating an VM on Azure that would be my ubunto server. These were the settings
 
 ![image](https://github.com/ViniCatureba/Proxy/assets/85119844/9312c05e-5db4-4359-8aa6-65c8640e0ff5)
 
