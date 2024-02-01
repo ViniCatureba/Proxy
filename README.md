@@ -9,7 +9,7 @@ So after I creat my VM in the US, I allowed my ip and openned port 22 so I could
 
 ![image](https://github.com/ViniCatureba/Proxy/assets/85119844/9b463227-7628-4016-82d0-ef1034af9972)
 
-After it, i connect to the VM though my powershell and inserted this command:
+After it, i connect to the VM though ssh in my powershell and inserted this command:
 
 ssh -D 1337 -N -C C:\Users\USER\Desktop\sshkey.pem azureuser@'My_Proxy_IP'
 
